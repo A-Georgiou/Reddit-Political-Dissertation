@@ -4,6 +4,7 @@ require('dotenv').config({
   path: `.env.${process.env.NODE_ENV}`,
 });
 
+
 module.exports = {
   siteMetadata: {
     author: config.siteAuthor,
@@ -11,6 +12,7 @@ module.exports = {
     description: config.siteDescription,
     siteUrl: config.siteUrl,
   },
+  pathPrefix: config.pathPrefix,
   plugins: [
     {
       resolve: `gatsby-plugin-manifest`,
