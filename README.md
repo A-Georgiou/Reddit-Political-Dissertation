@@ -18,6 +18,5 @@ models, creating a backend to host the model in the cloud, and a frontend that e
 visualisation of these components.
 
 
-# View website at: https://a-georgiou.github.io/reddit-political-dissertation/
-
-# View the dissertation in the /dissertation/ folder
+### View website at: https://a-georgiou.github.io/reddit-political-dissertation/
+### View the dissertation in the /dissertation/ folder
