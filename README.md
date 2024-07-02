@@ -1,3 +1,5 @@
+### *View website at: https://a-georgiou.github.io/reddit-political-dissertation/*
+### *View the dissertation in the /dissertation/ folder*
 
 ## Reddit Political Analysis Dissertation Project
 
@@ -23,6 +25,3 @@ visualisation of these components.
 ![Example Prediction](https://i.imgur.com/fk0ke8y.png)
 ![Example Prediction](https://i.imgur.com/y2j2y1v.png)
 ![Example Predictions](https://i.imgur.com/o4GPp7E.png)
-
-### View website at: https://a-georgiou.github.io/reddit-political-dissertation/
-### View the dissertation in the /dissertation/ folder
