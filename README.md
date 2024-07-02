@@ -16,3 +16,8 @@ The dissertation discusses the successful process of building the full-stack app
 including extraction of meaningful data, overcoming over-fitting in pre-trained language
 models, creating a backend to host the model in the cloud, and a frontend that enables the
 visualisation of these components.
+
+
+# View website at: https://a-georgiou.github.io/reddit-political-dissertation/
+
+# View the dissertation in the /dissertation/ folder
