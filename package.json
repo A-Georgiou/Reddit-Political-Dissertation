@@ -11,6 +11,8 @@
     "develop": "gatsby develop",
     "start": "gatsby develop",
     "build": "gatsby build",
+    "predeploy" : "npm run build",
+    "deploy" : "gh-pages -d dist",
     "serve": "gatsby serve",
     "clean": "gatsby clean"
   },
@@ -30,6 +32,7 @@
     "gatsby-source-filesystem": "^5.13.1",
     "gatsby-transformer-csv": "^5.13.1",
     "gatsby-transformer-sharp": "^5.13.1",
+    "gh-pages": "^6.1.1",
     "p5": "^1.9.4",
     "prop-types": "^15.8.1",
     "react": "^18.2.0",

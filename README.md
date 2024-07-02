@@ -2,7 +2,7 @@
 ## Reddit Political Analysis Dissertation Project
 
 Political divide has taken a significant hold of social media. Dangerous echo chambers develop
-in the advent of an ability to detect them. r/The_Donald was a 790,000-user right-wing
+in the advent of an ability to detect them. *r/The_Donald* was a *790,000-user* right-wing
 subreddit that became a haven for its followers before it was banned for racism and harassment
 in June 2020 from the platform Reddit.
 
