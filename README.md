@@ -1,4 +1,4 @@
-### *View website at: https://a-georgiou.github.io/reddit-political-dissertation/*
+### *View website at: https://reddit-political-analysis.netlify.app/*
 ### *View the dissertation in the /dissertation/ folder*
 
 ## Reddit Political Analysis Dissertation Project
